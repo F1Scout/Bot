@@ -1,1 +1,1 @@
-export * from "./utils/ergastRequest";
+export * from "./utils/request";
